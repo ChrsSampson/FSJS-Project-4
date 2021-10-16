@@ -1,7 +1,3 @@
-/* Treehouse FSJS Techdegree
- * Project 4 - OOP Game App
- * app.js */
-
 // Invoke objects and handle interactions
 
 // initizalize the game variable
