@@ -1,7 +1,3 @@
-/* Treehouse FSJS Techdegree
- * Project 4 - OOP Game App
- * Game.js */
-
 // Most of the Game logic is in the Game class.
 
 // Game Class that has a constructor that initializes a missed property set to 0, a phrases property set to an array of 5 phrase objects, and an active phrase property set to null.
