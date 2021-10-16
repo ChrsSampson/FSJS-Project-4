@@ -1,7 +1,3 @@
-/* Treehouse FSJS Techdegree
- * Project 4 - OOP Game App
- * Phrase.js */
-
 // Phrase Class that has a constructor that recieves a phrase parameter
 class Phrase{
     constructor(phrase){
